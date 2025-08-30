@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T11:05:26+00:00\n"
+"PO-Revision-Date: 2019-11-19T11:05:26+00:00\n"
+"Language: \n"
+
+msgid "plugins.generic.indexNow.name"
+msgstr "IndexNow Plugin"
+
+msgid "plugins.generic.indexNow.description"
+msgstr "This plugin enables indexing of newly published content using <a href=\"https://www.indexnow.org/\" target=\"_blank\">IndexNow</a>."
+
+msgid "plugins.generic.indexNow.settings.description"
+msgstr "In addition to configuring this plugin, you will need to make your IndexNow key available to the indexing service. See <a href=\"https://www.indexnow.org/\" target=\"_blank\">IndexNow</a> for details."
+
+msgid "plugins.generic.indexNow.settings.key"
+msgstr "Key"
